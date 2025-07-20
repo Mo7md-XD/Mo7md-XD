@@ -1,39 +1,67 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%" />
-  
-### مرحبا 👋 أنا محمد
-مبتدئ في برمجة **بايثون** وأسعى لتطوير مهاراتي ومشاركة المعرفة مع الآخرين ❤️‍🔥  
-📚 حاليًا أتعلم بشكل مستمر وأسعى لتحسين مستواي يومًا بعد يوم.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br> 
 
----
+<details>
+<summary><strong>🎧 مشغول بالبرمجة والاستماع إلى :</strong></summary>
 
-### 💬 للتواصل معي:
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-blue?style=flat&logo=telegram)](https://t.me/YOUR_GROUP_LINK)  
-انضم لمجموعتي على التلغرام المخصصة للمبرمجين لتبادل الخبرات والمساعدة في بايثون 🐍💡
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
 
----
+</details>
 
-### 🛠️ الأدوات واللغات اللي أستخدمها:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 إحصائيات جيت هب:
-
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-### ⚡ اقتباس أعيشه الآن:
-
-> "تعلم البرمجة لا ينتهي، بل يتجدد."
+![Totals Hits](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
+[![telegram badge](https://img.shields.io/badge/Telegram-Join_Me-blue?style=flat&logo=telegram)](https://t.me/Mohammed_Jalambo)
 
 </div>
+
+---
+
+## 👋 عني
+
+- 🧑‍💻 أنا **محمد**، عمري 16 سنة.
+- 💻 أتعلم **لغة بايثون** حاليًا (مستوى متوسط).
+- 🧠 أستخدم **PyCharm** كبيئة تطوير.
+- 🛡️ مهتم بمجال **الأمن السيبراني** وأسعى للتخصص فيه مستقبلًا.
+- 🤝 أنشأت **مجموعة على التلغرام** للمبرمجين لتبادل الخبرات والتعاون.
+- 📬 تواصل معي على [قناتي على التلغرام](https://t.me/Mohammed_Jalambo)
+
+---
+
+## ⚙️ الأدوات واللغات التي أتعلمها أو أستخدمها:
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</div>
+
+---
+
+## 🔄 دورة المبرمج:
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
+
+---
+
+> 📬 إذا كنت مبرمج مهتم بلغة بايثون أو الأمن السيبراني، انضم إلى مجموعتي وخلينا نتعلم ونتطور مع بعض!
