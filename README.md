@@ -1,42 +1,39 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-
-### 👋 مرحبًا، أنا محمد!
-🧑‍💻 مبتدئ في عالم البرمجة، حاليًا أتعلم لغة **Python** بخطى ثابتة.<br>
-🎯 هدفي هو تطوير مهاراتي والمشاركة في مشاريع برمجية مفيدة.<br>
-
----
-
-📚 **أتعلم حاليًا:**
-- أساسيات البرمجة باستخدام Python
-- التعامل مع المتغيرات، الشروط، الحلقات
-- المشاريع الصغيرة وتمارين التفكير المنطقي
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
+<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%" />
+  
+### مرحبا 👋 أنا محمد
+مبتدئ في برمجة **بايثون** وأسعى لتطوير مهاراتي ومشاركة المعرفة مع الآخرين ❤️‍🔥  
+📚 حاليًا أتعلم بشكل مستمر وأسعى لتحسين مستواي يومًا بعد يوم.
 
 ---
 
-📦 **الأدوات اللي بستخدمها حالياً:**
+### 💬 للتواصل معي:
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-blue?style=flat&logo=telegram)](https://t.me/YOUR_GROUP_LINK)  
+انضم لمجموعتي على التلغرام المخصصة للمبرمجين لتبادل الخبرات والمساعدة في بايثون 🐍💡
 
+---
+
+### 🛠️ الأدوات واللغات اللي أستخدمها:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-🛠️ **أشتغل حالياً على:**
-- فهم المفاهيم الأساسية في بايثون
-- تطبيق عملي على مشاريع بسيطة
-- التعلم من المجتمعات واليوتيوبرز
+### 📊 إحصائيات جيت هب:
+
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-📫 تواصل معي:
-[![Telegram](https://img.shields.io/badge/TG-تابعني_على_تلغرام-blue?style=flat&logo=telegram)](https://t.me/اسم_مستخدمك) <!-- غيّر الرابط حسب اسمك -->
+### ⚡ اقتباس أعيشه الآن:
 
----
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="12%" /><br>
-📌 "كل يوم سطر، كل يوم تطوّر" 💪
+> "تعلم البرمجة لا ينتهي، بل يتجدد."
 
 </div>
