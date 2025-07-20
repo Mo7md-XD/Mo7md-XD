@@ -11,7 +11,8 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Telegram-Join_Me-blue?style=flat&logo=telegram)](https://t.me/Mohammed_Jalambo)
+[![telegram badge](https://img.shields.io/badge/حسابي_على_التلغرام-blue?style=flat&logo=telegram)](https://t.me/Mohammed_Jalambo)
+[![telegram badge](https://img.shields.io/badge/مجموعة_المبرمجين-blueviolet?style=flat&logo=telegram)](https://t.me/+2qdZrjxcvUNkZDgy)
 
 </div>
 
@@ -20,23 +21,21 @@
 ## 👋 عني
 
 - 🧑‍💻 أنا **محمد**، عمري 16 سنة.
-- 💻 أتعلم **لغة بايثون** حاليًا (مستوى متوسط).
-- 🧠 أستخدم **PyCharm** كبيئة تطوير.
-- 🛡️ مهتم بمجال **الأمن السيبراني** وأسعى للتخصص فيه مستقبلًا.
+- 💻 أتعلم **لغة بايثون** حاليًا (مستواي متوسط).
+- 🧠 أستخدم **PyCharm** كبيئة تطوير أساسية.
+- 🛡️ مهتم جدًا بمجال **الأمن السيبراني** وأسعى للتخصص فيه.
 - 🤝 أنشأت **مجموعة على التلغرام** للمبرمجين لتبادل الخبرات والتعاون.
-- 📬 تواصل معي على [قناتي على التلغرام](https://t.me/Mohammed_Jalambo)
 
 ---
 
-## ⚙️ الأدوات واللغات التي أتعلمها أو أستخدمها:
+## ⚙️ أدواتي ولغاتي المفضلة:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
@@ -64,4 +63,5 @@
 
 ---
 
-> 📬 إذا كنت مبرمج مهتم بلغة بايثون أو الأمن السيبراني، انضم إلى مجموعتي وخلينا نتعلم ونتطور مع بعض!
+> 📬 إذا كنت مهتم ببايثون أو الأمن السيبراني، انضم إلى **[مجموعة التلغرام](https://t.me/+2qdZrjxcvUNkZDgy)** وخلي بينا تعاون مشترك! 💬
+
