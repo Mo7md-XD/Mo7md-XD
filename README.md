@@ -1,8 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br> 
-
 <details>
 <summary><strong>🎧 Currently coding while listening to:</strong></summary>
 
@@ -12,7 +9,6 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/My_Telegram-blue?style=flat&logo=telegram)](https://t.me/Mohammed_Jalambo)
-[![telegram badge](https://img.shields.io/badge/Programmers_Group-blueviolet?style=flat&logo=telegram)](https://t.me/+2qdZrjxcvUNkZDgy)
 
 </div>
 
