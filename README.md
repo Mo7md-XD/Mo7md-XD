@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Featured Projects
 - [](https://github.com/Mo7md-XD/pizza-project) – A powerful Python restaurant management system.
 - [](https://github.com/Mo7md-XD/security-toolkit) – Ethical hacking tools in Python & Bash.
 
