@@ -18,7 +18,7 @@
 
 - 🧑‍💻 I'm **Mohammed**, 16 years old.
 - 🐍 Currently learning **Python** (intermediate level).
-- 🛠️ I use **PyCharm** as my main code editor.
+- 🛠️ I use **Visual Studio Code** as my main code editor.
 - 🛡️ Passionate about **Cybersecurity** and aiming to specialize in it.
 - 👥 I run a **Telegram group** for programmers to collaborate and share knowledge.
 - 💬 Feel free to connect with me on [Telegram](https://t.me/Mohammed_Jalambo).
