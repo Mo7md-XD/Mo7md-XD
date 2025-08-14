@@ -12,7 +12,7 @@
 
 - 🧑‍💻 I'm **Mohammed**, 16 years old.
 - 🐍 Currently learning **Python** (intermediate level).
-- 🛠️ I use **Visual Studio Code** & **PyCharm** as my main code editors.
+- 🛠️ I use **Visual Studio Code** as my main code editors.
 - 🛡️ Passionate about **Cybersecurity** and aiming to specialize in it.
 - 💬 Feel free to connect with me on:
   - 📱 [Personal Telegram Account](https://t.me/Mohammed_Jalambo)
