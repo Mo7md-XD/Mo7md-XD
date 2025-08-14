@@ -1,8 +1,3 @@
-<!-- 🌟 Banner -->
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Mohammed Jalambo Banner" width="100%">
-</p>
-
 <!-- Profile views & Telegram -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mo7md-XD&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views">
@@ -49,8 +44,7 @@
 ---
 
 ## 🚀 My Featured Projects
-- [](https://github.com/Mo7md-XD/pizza-project) – A powerful Python restaurant management system.
-- [](https://github.com/Mo7md-XD/security-toolkit) – Ethical hacking tools in Python & Bash.
+- [Calculator Project](https://github.com/Mo7md-XD/Calculator-project) – 
 
 ---
 
