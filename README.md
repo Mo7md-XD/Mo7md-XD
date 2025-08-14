@@ -43,11 +43,6 @@
 
 ---
 
-## 🚀 My Featured Projects
-- [Calculator Project](https://github.com/Mo7md-XD/Calculator-project) – 
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
