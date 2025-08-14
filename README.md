@@ -9,6 +9,8 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/My_Telegram-blue?style=flat&logo=telegram)](https://t.me/Mohammed_Jalambo)
+[![Programming Channel](https://img.shields.io/badge/Programming_Channel-28A745?style=flat&logo=telegram&logoColor=white)](https://t.me/ProgrammingHub_Channel)
+[![Programming Chat Group](https://img.shields.io/badge/Programming_Chat_Group-FFA500?style=flat&logo=telegram&logoColor=white)](https://t.me/ProgrammingChatGroup)
 
 </div>
 
@@ -20,8 +22,12 @@
 - 🐍 Currently learning **Python** (intermediate level).
 - 🛠️ I use **Visual Studio Code** as my main code editor.
 - 🛡️ Passionate about **Cybersecurity** and aiming to specialize in it.
-- 👥 I run a **Telegram group** for programmers to collaborate and share knowledge.
-- 💬 Feel free to connect with me on [Telegram](https://t.me/Mohammed_Jalambo).
+- 👥 I run a **Telegram group** and **channel** for programmers to collaborate and share knowledge.
+- 💬 Feel free to connect with me on:
+  - 📱 [Personal Telegram Account](https://t.me/Mohammed_Jalambo)
+  - 📢 [Programming Channel](https://t.me/ProgrammingHub_Channel)
+  - 👥 [Programming Chat Group](https://t.me/ProgrammingChatGroup)
+
 
 ---
 
@@ -65,4 +71,7 @@
 
 ---
 
-> 📬 If you're into Python or Cybersecurity, feel free to join my [Telegram group](https://t.me/+2qdZrjxcvUNkZDgy) and let's grow together! 💬
+> 📬 If you're into Python or Cybersecurity, feel free to join my:
+> - [Programming Channel](https://t.me/ProgrammingHub_Channel)
+> - [Programming Chat Group](https://t.me/ProgrammingChatGroup)  
+> and let's grow together! 💬
