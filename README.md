@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mo7md-XD&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views">
   <a href="https://t.me/Mohammed_Jalambo"><img src="https://img.shields.io/badge/My_Telegram-blue?style=flat&logo=telegram"></a>
-  <a href="https://t.me/ProgrammingHub_Channel"><img src="https://img.shields.io/badge/Programming_Channel-28A745?style=flat&logo=telegram&logoColor=white"></a>
   <a href="https://t.me/ProgrammingChatGroup"><img src="https://img.shields.io/badge/Programming_Chat_Group-FFA500?style=flat&logo=telegram&logoColor=white"></a>
 </p>
 
@@ -16,7 +15,6 @@
 - 🛡️ Passionate about **Cybersecurity** and aiming to specialize in it.
 - 💬 Feel free to connect with me on:
   - 📱 [Personal Telegram Account](https://t.me/Mohammed_Jalambo)
-  - 📢 [Programming Channel](https://t.me/ProgrammingHub_Channel)
   - 👥 [Programming Chat Group](https://t.me/ProgrammingChatGroup)
 
 ---
